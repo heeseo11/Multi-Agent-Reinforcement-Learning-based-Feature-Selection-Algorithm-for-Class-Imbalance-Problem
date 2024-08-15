@@ -11,3 +11,16 @@
     | 1 | 81 | 67.6 | ...| 376.1330 |0| 0.0 | 
 
 
+- Mutual Information Data
+
+  - The mutual information between independent variables and the dependent variable was calculated and stored.
+ 
+      | col_name | mutual_info | 
+    |----------|----------|
+    | Sex | 0.000003 |
+    | Age |	0.022626 |
+    | Wt | 0.022626 |
+    | ... | ... |
+    | HR_rss | 0.2134 |
+    | Asthma | 0.00048 |
+    | med_Dopamine_HCl | 0.047271 |
