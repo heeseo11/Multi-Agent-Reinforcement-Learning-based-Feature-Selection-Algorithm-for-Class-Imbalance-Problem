@@ -1,8 +1,12 @@
-- Mutual Information
+## Multi agent reinforcement learning based feature selection
+
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/f5d3f8ad-25c6-4837-9272-cec916979704">
+
+## Mutual Information
 
 <img src="https://github.com/user-attachments/assets/da0f42e9-7683-4c51-8903-ff1b94f7e16e" alt="Image Description" style="width:700px;"/>
 
-- Shapley additive explanations values
+## Shapley additive explanations values
 
 <table>
   <tr>
@@ -26,4 +30,6 @@
     </td>
   </tr>
 </table>
+
+
 
