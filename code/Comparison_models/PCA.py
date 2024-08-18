@@ -13,7 +13,7 @@ random.seed(42)
 np.random.seed(42)
 
 # Load the data
-tiva = pd.read_csv('/content/gdrive/MyDrive/말기신질환 환자 수술 후 사망 예측/Data/tiva_5.csv', index_col=0, encoding='UTF-8')
+tiva = pd.read_csv('data.csv', index_col=0, encoding='UTF-8')
 
 # Separate features (X) and target (y)
 X = tiva.drop(['class'], axis=1)
