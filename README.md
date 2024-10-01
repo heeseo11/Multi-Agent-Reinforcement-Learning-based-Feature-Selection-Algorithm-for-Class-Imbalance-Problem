@@ -1,6 +1,6 @@
 # Feature Selection integrating Shapley Values and Mutual Information in Reinforcement Learning: An Application to Prediction of Post-operative Outcomes in End-stage Renal Disease Patients
 
-[paper link 넣기]
+[Kim, Seo-Hee, et al. "Feature selection integrating Shapley values and mutual information in reinforcement learning: An application in the prediction of post-operative outcomes in patients with end-stage renal disease." Computer Methods and Programs in Biomedicine (2024): 108416.](https://www.sciencedirect.com/science/article/pii/S0169260724004097?casa_token=req3wVWAv8cAAAAA:cfDmqnLz5wBjCXvMzP1zktiUbwEKL_RyNnsO1aMMpoP4YD22tDyoZ7IJbnY0QSbP2ZutZZlaUA)
 
 The overall structure of the multi-agent reinforcement learning framework is as follows:
 
