@@ -2,6 +2,13 @@
 
 [Kim, Seo-Hee, et al. "Feature selection integrating Shapley values and mutual information in reinforcement learning: An application in the prediction of post-operative outcomes in patients with end-stage renal disease." Computer Methods and Programs in Biomedicine (2024): 108416.](https://www.sciencedirect.com/science/article/pii/S0169260724004097?casa_token=req3wVWAv8cAAAAA:cfDmqnLz5wBjCXvMzP1zktiUbwEKL_RyNnsO1aMMpoP4YD22tDyoZ7IJbnY0QSbP2ZutZZlaUA)
 
+**Research Keywords**:  
+![Feature Selection](https://img.shields.io/badge/Feature%20Selection-4682B4?style=flat&logo=octopusdeploy&logoColor=white)
+![Multi-agent Reinforcement Learning](https://img.shields.io/badge/Multi--agent%20Reinforcement%20Learning-FF4500?style=flat&logo=deepmind&logoColor=white)
+![Mutual Information](https://img.shields.io/badge/Mutual%20Information-20B2AA?style=flat&logo=databricks&logoColor=white)
+![Shapley Additive Explanations (SHAP)](https://img.shields.io/badge/SHAP-FFA500?style=flat&logo=explanation&logoColor=white)
+![Class Imbalance](https://img.shields.io/badge/Class%20Imbalance-800080?style=flat&logo=balance-scale&logoColor=white)
+
 The overall structure of the multi-agent reinforcement learning framework is as follows:
 
 - Multi-agent reinforcement learning
